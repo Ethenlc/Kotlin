@@ -4,7 +4,7 @@ This software was made to print "Hello World!" on a screen.
 
 The purpose of this is to make sure I understand the fundamentals of creating a github repository. I will be replacing this with my Kotlin language repository in two weeks.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/rv_M4KporHA)
 
 # Development Environment
 
