@@ -10,7 +10,7 @@ The purpose of this is to make sure I understand the fundamentals of creating a 
 
 I am using Visual Studio Code to help me write this program.
 
-I used based Python to create this code.
+I used basic Python to create this code.
 
 # Useful Websites
 
