@@ -12,7 +12,7 @@ Here is a demo video of the code:
 
 # Development Environment
 
-I used different websites to help me learn how to implement Kotlin language into this program. I also used AI (ChatGPT) to help me when I came to a couple of roadblocks and it was able to point me in the right direction to get my code running again.
+I used different websites to help me learn how to implement Kotlin language into this program. I also used AI (ChatGPT) to help me when I came to a couple of roadblocks and it was able to point me in the right direction to get my code running again. There were also peers of mine that know more than me and they were a great asset when I needed help.
 
 I used the Kotlin language and the functions that come with it.
 
