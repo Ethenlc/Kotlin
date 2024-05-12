@@ -29,3 +29,7 @@ Here are a few things I would like to implement or fix
 - Create a way to give multiple hints with their score penalty getting exponentially higher.
 - Make a way to save the game so that you can come back later. This would be useful if it were an application.
 - Connect it so that you can play with other people as well. It could be online instead of just on a computer.
+
+# Note
+
+The KotlinPractice2 folder is only so that it will run in VSCode because I couldn't figure out another way to get it to run.
